@@ -168,15 +168,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_coal*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.sulfur*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:redstone*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -187,15 +187,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_iron*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -206,19 +206,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_gold*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -229,15 +229,15 @@
 	output_items = {
 		{
 			item = "hbm:item.sulfur*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_coal*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:redstone*9"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -248,15 +248,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_niobium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_sodalite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lapis*9"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -267,15 +267,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_alexandrite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_volcanic"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_diamond*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -286,15 +286,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_beryllium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lithium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_emerald*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -305,15 +305,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_asbestos"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_boron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_quartz*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -324,19 +324,19 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:3"
-			chance = 20
+			chance = 18
 		},
 		{
-			item = "RotaryCraft:rotarycraft_item_compacts:9"
-			chance = 30
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:5*4"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -347,19 +347,19 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots*5"
-			chance = 100
+			chance = 90
 		},
 		{
-			item = "RotaryCraft:rotarycraft_item_compacts:9"
-			chance = 30
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:3"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:5"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -370,19 +370,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_copper*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -393,15 +393,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_aluminium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lead*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -412,15 +412,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -431,15 +431,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*5"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
-			chance = 75
+			chance = 67.5
 		}
 }
 
@@ -450,15 +450,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_aluminium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -469,11 +469,11 @@
 	output_items = {
 		{
 			item = "hbm:item.ingot_silicon*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_powders:14*3"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -484,23 +484,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_plutonium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_uranium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_ra226*3"
-			chance = 70
+			chance = 63
 		},
 		{
 			item = "hbm:item.powder_thorium"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -511,19 +511,19 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_gold"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.nugget_mercury*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cadmium*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -534,19 +534,19 @@
 	output_items = {
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 2
+			chance = 1.8
 		},
 		{
 			item = "hbm:item.niter*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_fire"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.ingot_phosphorus"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -557,15 +557,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_aluminium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_tungsten*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -576,19 +576,19 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_cobalt*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_starmetal"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -599,15 +599,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -618,15 +618,15 @@
 	output_items = {
 		{
 			item = "minecraft:redstone*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.sulfur*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_coal*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -637,19 +637,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_cadmium*2"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 40
+			chance = 36
 		}
 }
 
@@ -660,15 +660,15 @@
 	output_items = {
 		{
 			item = "minecraft:glowstone_dust"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.fluorite*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_calcium"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -679,15 +679,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_aluminium*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -698,15 +698,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_niobium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_sodalite*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lapis*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -717,15 +717,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_iron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_titanium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -736,23 +736,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_plutonium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_uranium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_ra226*3"
-			chance = 70
+			chance = 63
 		},
 		{
 			item = "hbm:item.powder_thorium"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -763,15 +763,15 @@
 	output_items = {
 		{
 			item = "minecraft:redstone*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.sulfur*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_coal*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -782,11 +782,11 @@
 	output_items = {
 		{
 			item = "hbm:item.ingot_silicon*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_powders:14*3"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -797,23 +797,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_plutonium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_thorium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_uranium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_ra226"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -824,15 +824,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_volcanic"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_alexandrite*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_diamond"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -843,23 +843,23 @@
 	output_items = {
 		{
 			item = "hbm:item.niter*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_phosphorus"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_fire"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 20
+			chance = 18
 		}
 }
 }
@@ -869,15 +869,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_quartz"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_asbestos*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_boron"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -887,11 +887,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tantalium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_australium*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -901,15 +901,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_lithium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_beryllium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_emerald"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -919,11 +919,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_bismuth*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -933,15 +933,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_asbestos"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_boron*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_quartz"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -951,15 +951,15 @@
 	output_items = {
 		{
 			item = "minecraft:glowstone_dust"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_calcium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.fluorite"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -969,11 +969,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tantalium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_australium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -983,15 +983,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_euphemium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_bismuth"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1001,15 +1001,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_calcium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:glowstone_dust*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.fluorite*2"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1019,15 +1019,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_beryllium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lithium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_emerald"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1037,15 +1037,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_iron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "shincolle:AbyssMetal*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1055,15 +1055,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_desh"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_neodymium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_zirconium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1073,15 +1073,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_sodalite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_niobium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lapis*2"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1091,15 +1091,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_australium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_osmiridium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_tantalium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1109,23 +1109,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_uranium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium*3"
-			chance = 70
+			chance = 63
 		},
 		{
 			item = "hbm:item.powder_plutonium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_ra226"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_thorium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1135,11 +1135,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_bismuth"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1149,23 +1149,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.ingot_starmetal*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_astatine*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cobalt"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1175,23 +1175,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.ingot_starmetal"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_astatine*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cobalt"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1201,15 +1201,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_volcanic*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_diamond"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_alexandrite"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1219,19 +1219,19 @@
 	output_items = {
 		{
 			item = "hbm:item.niter*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_phosphorus*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_fire*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 5
+			chance = 4.5
 		}
 }
 }
@@ -1241,15 +1241,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_neodymium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_zirconium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_desh*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1259,15 +1259,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_neodymium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_desh"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_zirconium*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1277,15 +1277,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_iron*3"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1295,19 +1295,19 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_copper*3"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1322,15 +1322,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_coal*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.sulfur*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:redstone*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1341,15 +1341,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_iron*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1360,19 +1360,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_gold*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -1383,15 +1383,15 @@
 	output_items = {
 		{
 			item = "hbm:item.sulfur*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_coal*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:redstone*9"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1402,15 +1402,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_niobium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_sodalite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lapis*9"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1421,15 +1421,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_alexandrite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_volcanic"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_diamond*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1440,15 +1440,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_beryllium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lithium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_emerald*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1459,15 +1459,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_asbestos"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_boron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_quartz*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1478,19 +1478,19 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:3"
-			chance = 20
+			chance = 18
 		},
 		{
-			item = "RotaryCraft:rotarycraft_item_compacts:9"
-			chance = 30
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:5*4"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1501,19 +1501,19 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots*5"
-			chance = 100
+			chance = 90
 		},
 		{
-			item = "RotaryCraft:rotarycraft_item_compacts:9"
-			chance = 30
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:3"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_compacts:5"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -1524,19 +1524,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_copper*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1547,15 +1547,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_aluminium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lead*6"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1566,15 +1566,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1585,15 +1585,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*5"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
-			chance = 75
+			chance = 67.5
 		}
 }
 
@@ -1604,15 +1604,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_aluminium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1623,11 +1623,11 @@
 	output_items = {
 		{
 			item = "hbm:item.ingot_silicon*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_powders:14*3"
-			chance = 100
+			chance = 90
 		}
 }
 
@@ -1638,23 +1638,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_plutonium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_uranium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_ra226*3"
-			chance = 70
+			chance = 63
 		},
 		{
 			item = "hbm:item.powder_thorium"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1665,19 +1665,19 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_gold"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.nugget_mercury*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cadmium*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1688,19 +1688,19 @@
 	output_items = {
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 2
+			chance = 1.8
 		},
 		{
 			item = "hbm:item.niter*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_fire"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.ingot_phosphorus"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -1711,15 +1711,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_aluminium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_tungsten*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1730,19 +1730,19 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_cobalt*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_starmetal"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -1753,15 +1753,15 @@
 	output_items = {
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:43*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1772,15 +1772,15 @@
 	output_items = {
 		{
 			item = "minecraft:redstone*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.sulfur*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_coal*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1791,19 +1791,19 @@
 	output_items = {
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_cadmium*2"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_copper"
-			chance = 40
+			chance = 36
 		}
 }
 
@@ -1814,15 +1814,15 @@
 	output_items = {
 		{
 			item = "minecraft:glowstone_dust"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.fluorite*9"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_calcium"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1833,15 +1833,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tungsten"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_aluminium*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lead"
-			chance = 30
+			chance = 27
 		}
 }
 
@@ -1852,15 +1852,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_niobium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_sodalite*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lapis*2"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1871,15 +1871,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_iron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_titanium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1891,23 +1891,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_plutonium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_thorium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_uranium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_ra226"
-			chance = 20
+			chance = 18
 		}
 }
 
@@ -1918,15 +1918,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_volcanic"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_alexandrite*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_diamond"
-			chance = 50
+			chance = 45
 		}
 }
 
@@ -1937,23 +1937,23 @@
 	output_items = {
 		{
 			item = "hbm:item.niter*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_phosphorus"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_fire"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 20
+			chance = 18
 		}
 }
 }
@@ -1963,15 +1963,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_quartz"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_asbestos*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_boron"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -1981,11 +1981,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tantalium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_australium*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -1995,15 +1995,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_lithium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_beryllium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_emerald"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2013,11 +2013,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_bismuth*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -2027,15 +2027,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_asbestos"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_boron*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_quartz"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2045,15 +2045,15 @@
 	output_items = {
 		{
 			item = "minecraft:glowstone_dust"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_calcium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.fluorite"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2063,11 +2063,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_tantalium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_australium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2077,15 +2077,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_euphemium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_bismuth"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2095,15 +2095,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_calcium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "minecraft:glowstone_dust*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.fluorite*2"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2113,15 +2113,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_beryllium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_lithium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_emerald"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2131,15 +2131,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_iron"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "shincolle:AbyssMetal*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2149,15 +2149,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_desh"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_neodymium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_zirconium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2167,15 +2167,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_sodalite"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_niobium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_lapis*2"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2185,15 +2185,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_australium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_osmiridium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_tantalium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2203,23 +2203,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_uranium"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_polonium*3"
-			chance = 70
+			chance = 63
 		},
 		{
 			item = "hbm:item.powder_plutonium*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_ra226"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_thorium"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2229,11 +2229,11 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_schrabidium*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_bismuth"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2243,23 +2243,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.ingot_starmetal*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_astatine*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cobalt"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2269,23 +2269,23 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_nitan_mix*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_spark_mix"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.ingot_starmetal"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_astatine*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_cobalt"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2295,15 +2295,15 @@
 	output_items = {
 		{
 			item = "hbm:item.gem_volcanic*6"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_diamond"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.gem_alexandrite"
-			chance = 50
+			chance = 45
 		}
 }
 }
@@ -2313,19 +2313,19 @@
 	output_items = {
 		{
 			item = "hbm:item.niter*2"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.ingot_phosphorus*3"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.powder_fire*4"
-			chance = 100
+			chance = 90
 		},
 		{
 			item = "hbm:item.ingot_arsenic"
-			chance = 5
+			chance = 4.5
 		}
 }
 }
@@ -2335,15 +2335,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_neodymium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_zirconium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_desh*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -2353,15 +2353,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_neodymium"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_desh"
-			chance = 50
+			chance = 45
 		},
 		{
 			item = "hbm:item.powder_zirconium*6"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -2371,15 +2371,15 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_titanium"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "shincolle:AbyssMetal:1"
-			chance = 30
+			chance = 27
 		},
 		{
 			item = "hbm:item.powder_iron*3"
-			chance = 100
+			chance = 90
 		}
 }
 }
@@ -2389,19 +2389,615 @@
 	output_items = {
 		{
 			item = "hbm:item.powder_cadmium"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "hbm:item.nugget_mercury"
-			chance = 10
+			chance = 9
 		},
 		{
 			item = "hbm:item.powder_gold"
-			chance = 20
+			chance = 18
 		},
 		{
 			item = "hbm:item.powder_copper*3"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test4000"
+	input = "hbm:item.bedrock_ore_base"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:1*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:2*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:3*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:4*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:5*3"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4001"
+	input = "hbm:item.bedrock_ore"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:192*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:272*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:336*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:400*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4002"
+	input = "hbm:item.bedrock_ore:1"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:193*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:273*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:337*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:401*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4003"
+	input = "hbm:item.bedrock_ore:2"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:194*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:274*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:338*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:402*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4004"
+	input = "hbm:item.bedrock_ore:3"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:195*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:275*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:339*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:403*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4005"
+	input = "hbm:item.bedrock_ore:4"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:196*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:276*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:340*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:404*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4006"
+	input = "hbm:item.bedrock_ore:5"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:197*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:277*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:341*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:405*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4007"
+	input = "hbm:item.bedrock_ore:192"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_titanium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_aluminium*9"
 			chance = 100
 		}
+}
+}
+{
+	type = "test4008"
+	input = "hbm:item.bedrock_ore:272"
+	output_items = {
+		{
+			item = "hbm:item.powder_lithium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cobalt*9"
+			chance = 100
+		},
+		{
+			item = "shincolle:AbyssMetal:1*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4009"
+	input = "hbm:item.bedrock_ore:336"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_calcium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_sodium*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4010"
+	input = "hbm:item.bedrock_ore:400"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6*6"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4011"
+	input = "hbm:item.bedrock_ore:193"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_lead*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_copper*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4012"
+	input = "hbm:item.bedrock_ore:273"
+	output_items = {
+		{
+			item = "hbm:item.powder_gold*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cadmium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.nugget_mercury*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4013"
+	input = "hbm:item.bedrock_ore:337"
+	output_items = {
+		{
+			item = "hbm:item.powder_australium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_starmetal*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4014"
+	input = "hbm:item.bedrock_ore:401"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_bismuth*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_osmiridium*6"
+			chance = 20
+		}
+}
+}
+{
+	type = "test4015"
+	input = "hbm:item.bedrock_ore:194"
+	output_items = {
+		{
+			item = "hbm:item.powder_desh*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_niobium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4016"
+	input = "hbm:item.bedrock_ore:274"
+	output_items = {
+		{
+			item = "hbm:item.powder_zirconium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cerium*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_strontium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4017"
+	input = "hbm:item.bedrock_ore:338"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_neodymium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4018"
+	input = "hbm:item.bedrock_ore:402"
+	output_items = {
+		{
+			item = "hbm:item.powder_caesium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_spark_mix*6"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4019"
+	input = "hbm:item.bedrock_ore:195"
+	output_items = {
+		{
+			item = "hbm:item.powder_uranium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_thorium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_plutonium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4020"
+	input = "hbm:item.bedrock_ore:275"
+	output_items = {
+		{
+			item = "hbm:item.powder_ra226*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_technetium*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_polonium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4021"
+	input = "hbm:item.bedrock_ore:339"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_balefire*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_gh336*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4022"
+	input = "hbm:item.bedrock_ore:403"
+	output_items = {
+		{
+			item = "hbm:item.powder_dineutronium*3"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_euphemium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.billet_yharonite*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4023"
+	input = "hbm:item.bedrock_ore:196"
+	output_items = {
+		{
+			item = "hbm:item.powder_coal*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.niter*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.sulfur*18"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4024"
+	input = "hbm:item.bedrock_ore:276"
+	output_items = {
+		{
+			item = "hbm:item.powder_lapis*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_asbestos*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_fire*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4025"
+	input = "hbm:item.bedrock_ore:340"
+	output_items = {
+		{
+			item = "hbm:item.powder_boron*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_bromine*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_iodine*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4026"
+	input = "hbm:item.bedrock_ore:404"
+	output_items = {
+
+		{
+			item = "hbm:item.powder_astatine*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_tennessine*3"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_arsenic*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4027"
+	input = "hbm:item.bedrock_ore:197"
+	output_items = {
+		{
+			item = "hbm:item.powder_quartz*12"
+			chance = 100
+		},
+		{
+			item = "minecraft:redstone*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.fluorite*18"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4028"
+	input = "hbm:item.bedrock_ore:277"
+	output_items = {
+		{
+			item = "hbm:item.powder_diamond*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_emerald*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_silicon*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4029"
+	input = "hbm:item.bedrock_ore:341"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_powders:14*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_phosphorus*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.gem_alexandrite*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4030"
+	input = "hbm:item.bedrock_ore:405"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_chlorophyte*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_cft*9"
+			chance = 100
+		}		
 }
 }
