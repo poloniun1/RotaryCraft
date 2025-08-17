@@ -1,0 +1,17 @@
+{
+	type = "test1"
+	input = "minecraft:wheat_seeds"
+	input_fluid = "molecule.glucose"
+	input_amount = 200
+	output = "RotaryCraft:rotarycraft_item_yeast"
+	duration = 20
+}
+
+{
+	type = "test2"
+	input = "hbm:item.pellet_charged"
+	input_fluid = "element.he"
+	input_amount = 2000
+	output = "hbm:tile.plasma"
+	duration = 10
+}

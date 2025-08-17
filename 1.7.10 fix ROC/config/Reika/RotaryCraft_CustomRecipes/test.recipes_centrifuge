@@ -1,0 +1,3003 @@
+{
+	type = "test1000"
+	input = "minecraft:reeds"
+	output_fluid = {
+		type = "rc ethanol"
+		amount = 250
+		chance = 50
+	}
+		output_items = {
+		{
+			item = "minecraft:sugar*3"
+			chance = 100
+		},
+		{
+			item = "minecraft:sugar*2"
+			chance = 50
+		}
+		}
+}
+{
+	type = "test1001"
+	input = "minecraft:sugar"
+	output_fluid = {
+		type = "rc ethanol"
+		amount = 100
+		chance = 75
+	}
+}
+{
+	type = "test1002"
+	input = "hbm:item.powder_ra226"
+	output_items = {
+		{
+			item = "hbm:item.pellet_charged"
+			chance = 4
+		}
+
+}
+
+}
+{
+	type = "test1003"
+	input = "hbm:item.powder_astatine"
+	output_items = {
+		{
+			item = "hbm:item.pellet_charged"
+			chance = 5
+		}
+
+}
+
+}
+{
+	type = "test1004"
+	input = "hbm:item.powder_polonium"
+	output_items = {
+		{
+			item = "hbm:item.pellet_charged"
+			chance = 4
+		}
+}
+
+}
+{
+	type = "test1005"
+	input = "hbm:tile.plasma"
+	output_items = {
+		{
+			item = "hbm:item.pellet_charged*4"
+			chance = 50
+		},
+		{
+			item = "hbm:item.pellet_charged*4"
+			chance = 25
+		}
+}
+
+}
+{
+	type = "test1006"
+	input = "hbm:tile.ore_oil"
+	output_fluid = {
+		type = "rc jet fuel"
+		amount = 200
+		chance = 100
+	}
+}
+{
+	type = "test1007"
+	input = "hbm:tile.ore_oil_sand"
+	output_fluid = {
+		type = "rc lubricant"
+		amount = 400
+		chance = 100
+	}
+}
+{
+	type = "test1008"
+	input = "minecraft:packed_ice"
+	output_fluid = {
+		type = "rc liquid nitrogen"
+		amount = 300
+		chance = 100
+	}
+}
+{
+	type = "test1009"
+	input = "hbm:item.powder_ice"
+	output_fluid = {
+		type = "rc liquid nitrogen"
+		amount = 300
+		chance = 100
+	}
+}
+
+{
+	type = "test1010"
+	input = "hbm:item.fluid_tank_full:59"
+	output_items = {
+		{
+			item = "hbm:item.fluid_tank_empty"
+			chance = 100
+		}
+}
+	output_fluid = {
+		type = "rc ethanol"
+		amount = 800
+		chance = 100
+	}
+}
+
+{
+	type = "test1011"
+	input = "hbm:item.fluid_tank_full:22"
+	output_fluid = {
+		type = "rc jet fuel"
+		amount = 800
+		chance = 100
+	}
+}
+
+{
+	type = "test1012"
+	input = "hbm:item.fluid_tank_full:18"
+	output_fluid = {
+		type = "rc lubricant"
+		amount = 800
+		chance = 100
+	}
+}
+
+{
+	type = "test1013"
+	input = "hbm:item.fluid_tank_full:1003"
+	output_fluid = {
+		type = "rc liquid nitrogen"
+		amount = 800
+		chance = 100
+	}
+}
+
+
+
+
+{
+	type = "test2000"
+	input = "RotaryCraft:rotarycraft_item_extracts:24"
+	output_items = {
+		{
+			item = "hbm:item.powder_coal*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.sulfur*2"
+			chance = 45
+		},
+		{
+			item = "minecraft:redstone*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2001"
+	input = "RotaryCraft:rotarycraft_item_extracts:25"
+	output_items = {
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_iron*6"
+			chance = 90
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2002"
+	input = "RotaryCraft:rotarycraft_item_extracts:26"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_gold*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test2003"
+	input = "RotaryCraft:rotarycraft_item_extracts:27"
+	output_items = {
+		{
+			item = "hbm:item.sulfur*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_coal*2"
+			chance = 45
+		},
+		{
+			item = "minecraft:redstone*9"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2004"
+	input = "RotaryCraft:rotarycraft_item_extracts:28"
+	output_items = {
+		{
+			item = "hbm:item.powder_niobium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_sodalite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lapis*9"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2005"
+	input = "RotaryCraft:rotarycraft_item_extracts:29"
+	output_items = {
+		{
+			item = "hbm:item.gem_alexandrite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_volcanic"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_diamond*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2006"
+	input = "RotaryCraft:rotarycraft_item_extracts:30"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lithium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_emerald*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2007"
+	input = "RotaryCraft:rotarycraft_item_extracts:31"
+	output_items = {
+		{
+			item = "hbm:item.powder_asbestos"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_boron"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_quartz*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2008"
+	input = "RotaryCraft:rotarycraft_item_extracts:33"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3"
+			chance = 18
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5*4"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test2009"
+	input = "RotaryCraft:rotarycraft_item_modextracts:3"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*5"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3"
+			chance = 9
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test2010"
+	input = "RotaryCraft:rotarycraft_item_modextracts:7"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_copper*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2011"
+	input = "RotaryCraft:rotarycraft_item_modextracts:11"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_aluminium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lead*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2012"
+	input = "RotaryCraft:rotarycraft_item_modextracts:15"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*6"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test2013"
+	input = "RotaryCraft:rotarycraft_item_modextracts:19"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*5"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
+			chance = 67.5
+		}
+}
+
+}
+{
+	type = "test2014"
+	input = "RotaryCraft:rotarycraft_item_modextracts:27"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_aluminium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2015"
+	input = "RotaryCraft:rotarycraft_item_modextracts:39"
+	output_items = {
+		{
+			item = "hbm:item.ingot_silicon*3"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_powders:14*3"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2016"
+	input = "RotaryCraft:rotarycraft_item_modextracts:43"
+	output_items = {
+		{
+			item = "hbm:item.powder_plutonium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_uranium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_ra226*3"
+			chance = 63
+		},
+		{
+			item = "hbm:item.powder_thorium"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2017"
+	input = "RotaryCraft:rotarycraft_item_modextracts:47"
+	output_items = {
+		{
+			item = "hbm:item.powder_gold"
+			chance = 45
+		},
+		{
+			item = "hbm:item.nugget_mercury*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cadmium*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2018"
+	input = "RotaryCraft:rotarycraft_item_modextracts:83"
+	output_items = {
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 1.8
+		},
+		{
+			item = "hbm:item.niter*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_fire"
+			chance = 27
+		},
+		{
+			item = "hbm:item.ingot_phosphorus"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test2019"
+	input = "RotaryCraft:rotarycraft_item_modextracts:87"
+	output_items = {
+		{
+			item = "hbm:item.powder_aluminium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_tungsten*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2020"
+	input = "RotaryCraft:rotarycraft_item_modextracts:167"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_cobalt*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.ingot_starmetal"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test2021"
+	input = "RotaryCraft:rotarycraft_item_modextracts:175"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43*4"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2022"
+	input = "RotaryCraft:rotarycraft_item_modextracts:195"
+	output_items = {
+		{
+			item = "minecraft:redstone*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.sulfur*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_coal*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2023"
+	input = "RotaryCraft:rotarycraft_item_modextracts:203"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_cadmium*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 36
+		}
+}
+
+}
+{
+	type = "test2024"
+	input = "RotaryCraft:rotarycraft_item_modextracts:211"
+	output_items = {
+		{
+			item = "minecraft:glowstone_dust"
+			chance = 45
+		},
+		{
+			item = "hbm:item.fluorite*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_calcium"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2025"
+	input = "RotaryCraft:rotarycraft_item_modextracts:215"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_aluminium*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test2026"
+	input = "RotaryCraft:rotarycraft_item_modextracts:219"
+	output_items = {
+		{
+			item = "hbm:item.powder_niobium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_sodalite*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lapis*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2027"
+	input = "RotaryCraft:rotarycraft_item_modextracts:255"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_titanium*6"
+			chance = 90
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2028"
+	input = "RotaryCraft:rotarycraft_item_modextracts:275"
+	output_items = {
+		{
+			item = "hbm:item.powder_plutonium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_uranium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_ra226*3"
+			chance = 63
+		},
+		{
+			item = "hbm:item.powder_thorium"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2029"
+	input = "RotaryCraft:rotarycraft_item_modextracts:307"
+	output_items = {
+		{
+			item = "minecraft:redstone*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.sulfur*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_coal*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2030"
+	input = "RotaryCraft:rotarycraft_item_modextracts:315"
+	output_items = {
+		{
+			item = "hbm:item.ingot_silicon*3"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_powders:14*3"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test2031"
+	input = "RotaryCraft:rotarycraft_item_modextracts:339"
+	output_items = {
+		{
+			item = "hbm:item.powder_plutonium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_thorium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_uranium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_ra226"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test2032"
+	input = "RotaryCraft:rotarycraft_item_customextract:3"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_alexandrite*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_diamond"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test2033"
+	input = "RotaryCraft:rotarycraft_item_customextract:7"
+	output_items = {
+		{
+			item = "hbm:item.niter*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_phosphorus"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_fire"
+			chance = 27
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 30
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 10
+		}
+}
+}
+{
+	type = "test2034"
+	input = "RotaryCraft:rotarycraft_item_customextract:11"
+	output_items = {
+		{
+			item = "hbm:item.powder_quartz"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_asbestos*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_boron"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2035"
+	input = "RotaryCraft:rotarycraft_item_customextract:15"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_australium*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test2036"
+	input = "RotaryCraft:rotarycraft_item_customextract:19"
+	output_items = {
+		{
+			item = "hbm:item.powder_lithium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_beryllium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_emerald"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2037"
+	input = "RotaryCraft:rotarycraft_item_customextract:23"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_bismuth*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test2038"
+	input = "RotaryCraft:rotarycraft_item_customextract:27"
+	output_items = {
+		{
+			item = "hbm:item.powder_asbestos"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_boron*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_quartz"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2039"
+	input = "RotaryCraft:rotarycraft_item_customextract:31"
+	output_items = {
+		{
+			item = "minecraft:glowstone_dust"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_calcium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.fluorite"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2040"
+	input = "RotaryCraft:rotarycraft_item_customextract:35"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_australium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2041"
+	input = "RotaryCraft:rotarycraft_item_customextract:39"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_euphemium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_bismuth"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2042"
+	input = "RotaryCraft:rotarycraft_item_customextract:43"
+	output_items = {
+		{
+			item = "hbm:item.powder_calcium"
+			chance = 45
+		},
+		{
+			item = "minecraft:glowstone_dust*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.fluorite*2"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2043"
+	input = "RotaryCraft:rotarycraft_item_customextract:47"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lithium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_emerald"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2044"
+	input = "RotaryCraft:rotarycraft_item_customextract:51"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron"
+			chance = 45
+		},
+		{
+			item = "shincolle:AbyssMetal*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2045"
+	input = "RotaryCraft:rotarycraft_item_customextract:55"
+	output_items = {
+		{
+			item = "hbm:item.powder_desh"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_neodymium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_zirconium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2046"
+	input = "RotaryCraft:rotarycraft_item_customextract:59"
+	output_items = {
+		{
+			item = "hbm:item.gem_sodalite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_niobium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lapis*2"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2047"
+	input = "RotaryCraft:rotarycraft_item_customextract:63"
+	output_items = {
+		{
+			item = "hbm:item.powder_australium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_osmiridium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_tantalium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2048"
+	input = "RotaryCraft:rotarycraft_item_customextract:67"
+	output_items = {
+		{
+			item = "hbm:item.powder_uranium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium*3"
+			chance = 63
+		},
+		{
+			item = "hbm:item.powder_plutonium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_ra226"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_thorium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2049"
+	input = "RotaryCraft:rotarycraft_item_customextract:71"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_bismuth"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2050"
+	input = "RotaryCraft:rotarycraft_item_customextract:75"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.ingot_starmetal*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_astatine*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cobalt"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2051"
+	input = "RotaryCraft:rotarycraft_item_customextract:79"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.ingot_starmetal"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_astatine*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cobalt"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2052"
+	input = "RotaryCraft:rotarycraft_item_customextract:83"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_diamond"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_alexandrite"
+			chance = 45
+		}
+}
+}
+{
+	type = "test2053"
+	input = "RotaryCraft:rotarycraft_item_customextract:87"
+	output_items = {
+		{
+			item = "hbm:item.niter*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_phosphorus*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_fire*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 4.5
+		}
+}
+}
+{
+	type = "test2054"
+	input = "RotaryCraft:rotarycraft_item_customextract:91"
+	output_items = {
+		{
+			item = "hbm:item.powder_neodymium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_zirconium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_desh*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test2055"
+	input = "RotaryCraft:rotarycraft_item_customextract:95"
+	output_items = {
+		{
+			item = "hbm:item.powder_neodymium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_desh"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_zirconium*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test2056"
+	input = "RotaryCraft:rotarycraft_item_customextract:99"
+	output_items = {
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 18
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_iron*3"
+			chance = 90
+		}
+}
+}
+{
+	type = "test2057"
+	input = "RotaryCraft:rotarycraft_item_customextract:103"
+	output_items = {
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 9
+		},
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 9
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_copper*3"
+			chance = 90
+		}
+}
+}
+
+
+
+
+
+{
+	type = "test3000"
+	input = "aobd:crystalCoal"
+	output_items = {
+		{
+			item = "hbm:item.powder_coal*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.sulfur*2"
+			chance = 45
+		},
+		{
+			item = "minecraft:redstone*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3001"
+	input = "aobd:crystalIron"
+	output_items = {
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_iron*6"
+			chance = 90
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3002"
+	input = "aobd:crystalGold"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_gold*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test3003"
+	input = "aobd:crystalRedstone"
+	output_items = {
+		{
+			item = "hbm:item.sulfur*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_coal*2"
+			chance = 45
+		},
+		{
+			item = "minecraft:redstone*9"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3004"
+	input = "aobd:crystalLapis"
+	output_items = {
+		{
+			item = "hbm:item.powder_niobium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_sodalite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lapis*9"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3005"
+	input = "aobd:crystalDiamond"
+	output_items = {
+		{
+			item = "hbm:item.gem_alexandrite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_volcanic"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_diamond*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3006"
+	input = "aobd:crystalEmerald"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lithium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_emerald*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3007"
+	input = "aobd:crystalNetherQuartz"
+	output_items = {
+		{
+			item = "hbm:item.powder_asbestos"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_boron"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_quartz*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3008"
+	input = "aobd:crystalRareEarth"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3"
+			chance = 18
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5*4"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test3009"
+	input = "aobd:crystalTin"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*5"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6"
+			chance = 27
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3"
+			chance = 9
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test3010"
+	input = "aobd:crystalCopper"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_copper*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3011"
+	input = "aobd:crystalLead"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_aluminium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lead*6"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3012"
+	input = "aobd:crystalNickel"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*6"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test3013"
+	input = "aobd:crystalSilver"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*5"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
+			chance = 67.5
+		}
+}
+
+}
+{
+	type = "test3014"
+	input = "aobd:crystalAluminum"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_aluminium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3015"
+	input = "aobd:crystalSilicon"
+	output_items = {
+		{
+			item = "hbm:item.ingot_silicon*3"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_powders:14*3"
+			chance = 90
+		}
+}
+
+}
+{
+	type = "test3016"
+	input = "aobd:crystalUranium"
+	output_items = {
+		{
+			item = "hbm:item.powder_plutonium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_uranium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_ra226*3"
+			chance = 63
+		},
+		{
+			item = "hbm:item.powder_thorium"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3017"
+	input = "hbm:item.crystal_cinnebar"
+	output_items = {
+		{
+			item = "hbm:item.powder_gold"
+			chance = 45
+		},
+		{
+			item = "hbm:item.nugget_mercury*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cadmium*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3018"
+	input = "aobd:crystalSaltpeter"
+	output_items = {
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 1.8
+		},
+		{
+			item = "hbm:item.niter*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_fire"
+			chance = 27
+		},
+		{
+			item = "hbm:item.ingot_phosphorus"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test3019"
+	input = "aobd:crystalTungsten"
+	output_items = {
+		{
+			item = "hbm:item.powder_aluminium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_tungsten*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3020"
+	input = "aobd:crystalCobalt"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_cobalt*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.ingot_starmetal"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test3021"
+	input = "aobd:crystalPlatinum"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*2"
+			chance = 45
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43*4"
+			chance = 90
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3022"
+	input = "aobd:crystalSulfur"
+	output_items = {
+		{
+			item = "minecraft:redstone*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.sulfur*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_coal*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3023"
+	input = "aobd:crystalCadmium"
+	output_items = {
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_cadmium*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_copper"
+			chance = 36
+		}
+}
+
+}
+{
+	type = "test3024"
+	input = "aobd:crystalFlourite"
+	output_items = {
+		{
+			item = "minecraft:glowstone_dust"
+			chance = 45
+		},
+		{
+			item = "hbm:item.fluorite*9"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_calcium"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3025"
+	input = "aobd:crystalBauxite"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_aluminium*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lead"
+			chance = 27
+		}
+}
+
+}
+{
+	type = "test3026"
+	input = "aobd:crystalSodium"
+	output_items = {
+		{
+			item = "hbm:item.powder_niobium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_sodalite*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lapis*2"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3027"
+	input = "aobd:crystalTitanium"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_titanium*6"
+			chance = 90
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 45
+		}
+}
+
+}
+
+{
+	type = "test3031"
+	input = "aobd:crystalThorium"
+	output_items = {
+		{
+			item = "hbm:item.powder_plutonium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_thorium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_uranium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_ra226"
+			chance = 18
+		}
+}
+
+}
+{
+	type = "test3032"
+	input = "aobd:crystalAlexandrite"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_alexandrite*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_diamond"
+			chance = 45
+		}
+}
+
+}
+{
+	type = "test3033"
+	input = "aobd:crystalArsenic"
+	output_items = {
+		{
+			item = "hbm:item.niter*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_phosphorus"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_fire"
+			chance = 27
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 30
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 10
+		}
+}
+}
+{
+	type = "test3034"
+	input = "aobd:crystalAsbestos"
+	output_items = {
+		{
+			item = "hbm:item.powder_quartz"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_asbestos*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_boron"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3035"
+	input = "aobd:crystalAustralium"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_australium*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test3036"
+	input = "aobd:crystalBeryllium"
+	output_items = {
+		{
+			item = "hbm:item.powder_lithium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_beryllium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_emerald"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3037"
+	input = "aobd:crystalBismuth"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_bismuth*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test3038"
+	input = "aobd:crystalBoron"
+	output_items = {
+		{
+			item = "hbm:item.powder_asbestos"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_boron*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_quartz"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3039"
+	input = "aobd:crystalCalcium"
+	output_items = {
+		{
+			item = "minecraft:glowstone_dust"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_calcium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.fluorite"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3040"
+	input = "aobd:crystalColtan"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_australium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3041"
+	input = "aobd:crystalEuphemium"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_euphemium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_bismuth"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3042"
+	input = "aobd:crystalGlowstone"
+	output_items = {
+		{
+			item = "hbm:item.powder_calcium"
+			chance = 45
+		},
+		{
+			item = "minecraft:glowstone_dust*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.fluorite*2"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3043"
+	input = "aobd:crystalLithium"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_lithium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_emerald"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3044"
+	input = "aobd:crystalManganese"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron"
+			chance = 45
+		},
+		{
+			item = "shincolle:AbyssMetal*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3045"
+	input = "aobd:crystalNeodymium"
+	output_items = {
+		{
+			item = "hbm:item.powder_desh"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_neodymium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_zirconium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3046"
+	input = "aobd:crystalNiobium"
+	output_items = {
+		{
+			item = "hbm:item.gem_sodalite"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_niobium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_lapis*2"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3047"
+	input = "aobd:crystalOsmiridium"
+	output_items = {
+		{
+			item = "hbm:item.powder_australium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_osmiridium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_tantalium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3048"
+	input = "aobd:crystalPlutonium"
+	output_items = {
+		{
+			item = "hbm:item.powder_uranium"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_polonium*3"
+			chance = 63
+		},
+		{
+			item = "hbm:item.powder_plutonium*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_ra226"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_thorium"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3049"
+	input = "aobd:crystalSchrabidium"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_bismuth"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3050"
+	input = "aobd:crystalStarmetal"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.ingot_starmetal*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_astatine*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cobalt"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3051"
+	input = "aobd:crystalTikite"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_spark_mix"
+			chance = 18
+		},
+		{
+			item = "hbm:item.ingot_starmetal"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_astatine*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_cobalt"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3052"
+	input = "aobd:crystalVolcanic"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic*6"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_diamond"
+			chance = 45
+		},
+		{
+			item = "hbm:item.gem_alexandrite"
+			chance = 45
+		}
+}
+}
+{
+	type = "test3053"
+	input = "aobd:crystalWhitePhosphorus"
+	output_items = {
+		{
+			item = "hbm:item.niter*2"
+			chance = 45
+		},
+		{
+			item = "hbm:item.ingot_phosphorus*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.powder_fire*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.ingot_arsenic"
+			chance = 4.5
+		}
+}
+}
+{
+	type = "test3054"
+	input = "aobd:crystalWorkersAlloy"
+	output_items = {
+		{
+			item = "hbm:item.powder_neodymium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_zirconium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_desh*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test3055"
+	input = "aobd:crystalZirconium"
+	output_items = {
+		{
+			item = "hbm:item.powder_neodymium"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_desh"
+			chance = 45
+		},
+		{
+			item = "hbm:item.powder_zirconium*6"
+			chance = 90
+		}
+}
+}
+{
+	type = "test3056"
+	input = "aobd:crystalHematite"
+	output_items = {
+		{
+			item = "hbm:item.powder_titanium"
+			chance = 18
+		},
+		{
+			item = "shincolle:AbyssMetal:1"
+			chance = 27
+		},
+		{
+			item = "hbm:item.powder_iron*3"
+			chance = 90
+		}
+}
+}
+{
+	type = "test3057"
+	input = "aobd:crystalMalachite"
+	output_items = {
+		{
+			item = "hbm:item.powder_cadmium"
+			chance = 9
+		},
+		{
+			item = "hbm:item.nugget_mercury"
+			chance = 9
+		},
+		{
+			item = "hbm:item.powder_gold"
+			chance = 18
+		},
+		{
+			item = "hbm:item.powder_copper*3"
+			chance = 90
+		}
+}
+}
+
+{
+	type = "test4000"
+	input = "hbm:item.bedrock_ore_base"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:1*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:2*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:3*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:4*3"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:5*3"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4001"
+	input = "hbm:item.bedrock_ore"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:192*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:272*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:336*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:400*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4002"
+	input = "hbm:item.bedrock_ore:1"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:193*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:273*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:337*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:401*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4003"
+	input = "hbm:item.bedrock_ore:2"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:194*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:274*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:338*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:402*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4004"
+	input = "hbm:item.bedrock_ore:3"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:195*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:275*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:339*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:403*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4005"
+	input = "hbm:item.bedrock_ore:4"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:196*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:276*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:340*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:404*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4006"
+	input = "hbm:item.bedrock_ore:5"
+	output_items = {
+		{
+			item = "hbm:item.bedrock_ore:197*4"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:277*2"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:341*1"
+			chance = 90
+		},
+		{
+			item = "hbm:item.bedrock_ore:405*1"
+			chance = 90
+		}
+}
+}
+{
+	type = "test4007"
+	input = "hbm:item.bedrock_ore:192"
+	output_items = {
+		{
+			item = "hbm:item.powder_iron*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_titanium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_aluminium*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4008"
+	input = "hbm:item.bedrock_ore:272"
+	output_items = {
+		{
+			item = "hbm:item.powder_lithium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cobalt*9"
+			chance = 100
+		},
+		{
+			item = "shincolle:AbyssMetal:1*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4009"
+	input = "hbm:item.bedrock_ore:336"
+	output_items = {
+		{
+			item = "hbm:item.powder_beryllium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_calcium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_sodium*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4010"
+	input = "hbm:item.bedrock_ore:400"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:6*6"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:3*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4011"
+	input = "hbm:item.bedrock_ore:193"
+	output_items = {
+		{
+			item = "hbm:item.powder_tungsten*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_lead*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_copper*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4012"
+	input = "hbm:item.bedrock_ore:273"
+	output_items = {
+		{
+			item = "hbm:item.powder_gold*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cadmium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.nugget_mercury*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4013"
+	input = "hbm:item.bedrock_ore:337"
+	output_items = {
+		{
+			item = "hbm:item.powder_australium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:5*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_starmetal*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4014"
+	input = "hbm:item.bedrock_ore:401"
+	output_items = {
+		{
+			item = "hbm:item.powder_tantalium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_bismuth*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_osmiridium*6"
+			chance = 20
+		}
+}
+}
+{
+	type = "test4015"
+	input = "hbm:item.bedrock_ore:194"
+	output_items = {
+		{
+			item = "hbm:item.powder_desh*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_niobium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:4*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4016"
+	input = "hbm:item.bedrock_ore:274"
+	output_items = {
+		{
+			item = "hbm:item.powder_zirconium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_cerium*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_strontium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4017"
+	input = "hbm:item.bedrock_ore:338"
+	output_items = {
+		{
+			item = "hbm:item.powder_nitan_mix*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_neodymium*9"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_modingots:43*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4018"
+	input = "hbm:item.bedrock_ore:402"
+	output_items = {
+		{
+			item = "hbm:item.powder_caesium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_spark_mix*6"
+			chance = 100
+		},
+		{
+			item = "RotaryCraft:rotarycraft_item_compacts:3*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4019"
+	input = "hbm:item.bedrock_ore:195"
+	output_items = {
+		{
+			item = "hbm:item.powder_uranium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_thorium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_plutonium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4020"
+	input = "hbm:item.bedrock_ore:275"
+	output_items = {
+		{
+			item = "hbm:item.powder_ra226*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_technetium*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_polonium*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4021"
+	input = "hbm:item.bedrock_ore:339"
+	output_items = {
+		{
+			item = "hbm:item.powder_schrabidium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_balefire*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_gh336*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4022"
+	input = "hbm:item.bedrock_ore:403"
+	output_items = {
+		{
+			item = "hbm:item.powder_dineutronium*3"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_euphemium*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.billet_yharonite*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4023"
+	input = "hbm:item.bedrock_ore:196"
+	output_items = {
+		{
+			item = "hbm:item.powder_coal*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.niter*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.sulfur*18"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4024"
+	input = "hbm:item.bedrock_ore:276"
+	output_items = {
+		{
+			item = "hbm:item.powder_lapis*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_asbestos*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_fire*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4025"
+	input = "hbm:item.bedrock_ore:340"
+	output_items = {
+		{
+			item = "hbm:item.powder_boron*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_bromine*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_iodine*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4026"
+	input = "hbm:item.bedrock_ore:404"
+	output_items = {
+
+		{
+			item = "hbm:item.powder_astatine*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_tennessine*3"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_arsenic*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4027"
+	input = "hbm:item.bedrock_ore:197"
+	output_items = {
+		{
+			item = "hbm:item.powder_quartz*12"
+			chance = 100
+		},
+		{
+			item = "minecraft:redstone*18"
+			chance = 100
+		},
+		{
+			item = "hbm:item.fluorite*18"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4028"
+	input = "hbm:item.bedrock_ore:277"
+	output_items = {
+		{
+			item = "hbm:item.powder_diamond*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_emerald*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_silicon*9"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4029"
+	input = "hbm:item.bedrock_ore:341"
+	output_items = {
+		{
+			item = "RotaryCraft:rotarycraft_item_powders:14*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_phosphorus*9"
+			chance = 100
+		},
+		{
+			item = "hbm:item.gem_alexandrite*6"
+			chance = 100
+		}
+}
+}
+{
+	type = "test4030"
+	input = "hbm:item.bedrock_ore:405"
+	output_items = {
+		{
+			item = "hbm:item.gem_volcanic*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.powder_chlorophyte*6"
+			chance = 100
+		},
+		{
+			item = "hbm:item.ingot_cft*9"
+			chance = 100
+		}		
+}
+}
