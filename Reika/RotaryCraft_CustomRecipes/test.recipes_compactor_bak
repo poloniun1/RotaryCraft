@@ -1,7 +1,0 @@
-{
-	type = "test1"
-	input = "hbm:item.tritium_deuterium_cake"
-	output = "hbm:tile.plasma"
-	temperature = 0
-	pressure = 550000
-}
